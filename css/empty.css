@@ -1,0 +1,22 @@
+*,
+*::after,
+*::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    color: black;
+}
+.header{
+    width: 100%;
+    height: 100vh;
+    background-color: #34383C;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main{
+    width: 400px;
+ 
+}
